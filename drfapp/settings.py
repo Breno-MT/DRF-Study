@@ -135,7 +135,7 @@ REST_FRAMEWORK = {
 SPECTACULAR_SETTINGS = {
     'TITLE': 'DRF - Django studies',
     'DESCRIPTION': 'Small project to elaborate further my skills with django',
-    'VERSION': '0.0.1',
+    'VERSION': 'v0.0.1',
     'SERVE_INCLUDE_SCHEMA': False,
     'SWAGGER_UI_DIST': 'SIDECAR',  # shorthand to use the sidecar instead
     'SWAGGER_UI_FAVICON_HREF': 'SIDECAR',
